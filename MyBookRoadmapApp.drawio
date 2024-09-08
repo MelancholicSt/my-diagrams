@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SKn-gwGTb66ZYDygB59r-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-1" target="SKn-gwGTb66ZYDygB59r-12">
+        <mxCell id="SKn-gwGTb66ZYDygB59r-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-1" target="SKn-gwGTb66ZYDygB59r-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SKn-gwGTb66ZYDygB59r-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-1" target="SKn-gwGTb66ZYDygB59r-21">
+        <mxCell id="SKn-gwGTb66ZYDygB59r-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=open;endFill=0;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-1" target="SKn-gwGTb66ZYDygB59r-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-1" value="RoadmapController" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -19,19 +19,19 @@
         <mxCell id="SKn-gwGTb66ZYDygB59r-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-12" target="SKn-gwGTb66ZYDygB59r-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SKn-gwGTb66ZYDygB59r-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=open;endFill=0;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-12" target="SKn-gwGTb66ZYDygB59r-21">
+        <mxCell id="SKn-gwGTb66ZYDygB59r-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=open;endFill=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-12" target="SKn-gwGTb66ZYDygB59r-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-41" value="If necessary" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0;fontFamily=Courier New;" vertex="1" connectable="0" parent="SKn-gwGTb66ZYDygB59r-29">
           <mxGeometry x="-0.1034" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="7" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-12" target="SKn-gwGTb66ZYDygB59r-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-12" value="RoadmapTaskService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="257" width="135" height="60" as="geometry" />
+          <mxGeometry x="-180" y="257" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-13" target="SKn-gwGTb66ZYDygB59r-21">
           <mxGeometry relative="1" as="geometry" />
@@ -40,29 +40,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-13" value="BookReaderService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="257" width="140" height="60" as="geometry" />
+          <mxGeometry x="350" y="257" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-14" target="SKn-gwGTb66ZYDygB59r-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="355" y="350" />
+              <mxPoint x="455" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-14" value="S3BucketService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="350" width="135" height="60" as="geometry" />
+          <mxGeometry x="355" y="350" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-16" target="SKn-gwGTb66ZYDygB59r-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-16" value="RoadmapTaskRepository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-285" y="350" width="145" height="60" as="geometry" />
+          <mxGeometry x="-185" y="350" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-17" target="SKn-gwGTb66ZYDygB59r-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-17" value="BookRepository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-37.5" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="62.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-21" target="SKn-gwGTb66ZYDygB59r-17">
           <mxGeometry relative="1" as="geometry" />
@@ -75,17 +75,17 @@
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-40" value="If necessary" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Courier New;" vertex="1" connectable="0" parent="SKn-gwGTb66ZYDygB59r-37">
           <mxGeometry x="-0.3438" y="3" relative="1" as="geometry">
-            <mxPoint x="22" as="offset" />
+            <mxPoint x="22" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-21" value="BookService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-37.5" y="257" width="135" height="60" as="geometry" />
+          <mxGeometry x="62.5" y="257" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="SKn-gwGTb66ZYDygB59r-27" target="SKn-gwGTb66ZYDygB59r-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SKn-gwGTb66ZYDygB59r-27" value="TaskStatusRepository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="257" width="145" height="60" as="geometry" />
+          <mxGeometry x="-360" y="257" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
